@@ -96,6 +96,7 @@ class HorseTest {
     }
 
     @Test
+
     void move() {
         double max = 0.9;
         double min = 0.2;
